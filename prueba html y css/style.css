@@ -1,0 +1,21 @@
+header {
+  background-color: rgb(5, 5, 54);
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
+
+footer {
+  background-color: rgb(5, 5, 54);
+  color: white;
+  padding:  1em;
+  text-align: center;
+
+}
+body{
+  background-color: rgb(216, 236, 248);
+}
+
+a {
+  background-color: blanchedalmond;
+}
