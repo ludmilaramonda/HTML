@@ -16,9 +16,7 @@ body{
   background-color: rgb(216, 236, 248);
 }
 
-a {
-  background-color: blanchedalmond;
-}
+
  table{
   border: 5px;
   border-color: black;
@@ -32,4 +30,8 @@ a {
   border-color: black;
   background-color: aliceblue;
 
+}
+
+.textoBlanco {
+  color: white;
 }
