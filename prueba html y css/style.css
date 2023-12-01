@@ -19,3 +19,17 @@ body{
 a {
   background-color: blanchedalmond;
 }
+ table{
+  border: 5px;
+  border-color: black;
+  border-radius: 5%;
+  background-color: black;
+
+}
+
+  tr{
+  border: 3px;
+  border-color: black;
+  background-color: aliceblue;
+
+}
